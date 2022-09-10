@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
     float soma_vet(float x[], int cont);
     void n_aleatorio(float x[]);
 
